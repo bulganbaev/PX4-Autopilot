@@ -1,0 +1,5 @@
+menuconfig MODULES_MATEK_CAM_SWITCH
+	bool "matek_cam_switch"
+	default n
+	---help---
+		Enable Matek H743-Slim internal camera/Vsw switch module.
